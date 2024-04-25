@@ -8,4 +8,8 @@ To use these notebooks:
 - Clone the repository to your local machine.
 - Ensure you have Jupyter installed, or use any platform that supports Jupyter notebooks (e.g., Google Colab, Anaconda).
 - Navigate to the notebook directory and open the notebooks using Jupyter Notebook or JupyterLab.
-https://github.com/ghezalahmad/Adaptive-Sampling-/blob/main/Fig/sampling.png
+
+## Requirements
+- Python 3.8 or higher
+- Jupyter
+- Libraries: numpy, pandas, scikit-learn, matplotlib (installation commands included within the notebooks)
